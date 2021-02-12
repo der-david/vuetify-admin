@@ -86,6 +86,7 @@ export default {
         placeholder: this.placeholder,
         clearable: this.clearable,
         disabled: this.disabled,
+        readonly: this.readonly,
       };
     },
   },

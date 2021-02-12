@@ -49,6 +49,10 @@ export default {
      */
     disabled: Boolean,
     /**
+     * Mark this input as readonly.
+     */
+    readonly: Boolean,
+    /**
      * Override default label behavior.
      * Default is to get the localized VueI18n label from both resource and property source.
      */
