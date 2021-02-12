@@ -36,25 +36,25 @@
     "save_and_edit": "Save and edit"
   },
   "messages": {
-    "created": "New {resource} successfully created !",
-    "updated": "{resource} #{id} successfully updated !",
-    "deleted": "{resource} #{id} successfully deleted !",
-    "moved": "{resource} #{id} successfully moved !",
-    "updated_many": "{count} {resource} successfully updated !",
-    "deleted_many": "{count} {resource} successfully deleted !"
+    "created": "New {resource} successfully created!",
+    "updated": "{resource} #{id} successfully updated!",
+    "deleted": "{resource} #{id} successfully deleted!",
+    "moved": "{resource} #{id} successfully moved!",
+    "updated_many": "{count} {resource} successfully updated!",
+    "deleted_many": "{count} {resource} successfully deleted!"
   },
   "confirm": {
     "yes": "Yes",
     "no": "No",
-    "delete_title": "Delete {resource} #{id} ?",
-    "delete_message": "You are about deleting {resource} #{id}. This operation is irreversible !",
-    "delete_many_title": "Delete {count} {resource} ?",
-    "delete_many_message": "You are about deleting {count} {resource}. This operation is irreversible !",
-    "dissociate_title": "Dissociate from {targetResource} #{targetId} ?",
+    "delete_title": "Delete {resource} #{id}?",
+    "delete_message": "You are about deleting {resource} #{id}. This operation is irreversible!",
+    "delete_many_title": "Delete {count} {resource}?",
+    "delete_many_message": "You are about deleting {count} {resource}. This operation is irreversible!",
+    "dissociate_title": "Dissociate from {targetResource} #{targetId}?",
     "dissociate_message": "You are about dissociate {targetResource} #{targetId} from {sourceResource} #{sourceId}."
   },
   "forms": {
     "none": "None",
-    "required_field": "{field] is required"
+    "required_field": "{field} is required"
   }
 }

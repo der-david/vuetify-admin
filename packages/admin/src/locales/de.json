@@ -1,0 +1,60 @@
+{
+  "logout": "Abmelden",
+  "not_found": "Nicht gefunden",
+  "close": "Schließen",
+  "file_manager": "Dateimanager",
+  "datatable": {
+    "search": "Suchen",
+    "add_filter": "Filter hinzufügen",
+    "selected_items": "Ein Eintrag ausgewählt | {count} Einträge ausgewählt"
+  },
+  "pages": {
+    "list": "Liste von {resource}",
+    "create": "{resource} erstellen",
+    "show": "Details von {resource} {label}",
+    "edit": "{resource} {label} bearbeiten",
+    "not_found": "{resource} #{id} nicht gefunden"
+  },
+  "actions": {
+    "list": "Liste",
+    "create": "Erstellen",
+    "show": "Anzeigen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "export": "Exportieren",
+    "clone": "Kopieren",
+    "add": "Hinzufügen",
+    "remove": "Entfernen",
+    "move": "Verschieben",
+    "associate": "Zuordnen",
+    "dissociate": "Trennen",
+    "locale": "Sprache",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "save_and_add": "Speichern und hinzufügen",
+    "save_and_show": "Speichern und anzeigen",
+    "save_and_edit": "Speichern und bearbeiten"
+  },
+  "messages": {
+    "created": "{resource} erfolgreich hinzugefügt !",
+    "updated": "{resource} #{id} erfolgreich bearbeitet!",
+    "deleted": "{resource} #{id} erfolgreich gelöscht!",
+    "moved": "{resource} #{id} erfolgreich verschoben!",
+    "updated_many": "{count} {resource} erfolgreich bearbeitet!",
+    "deleted_many": "{count} {resource} erfolgreich gelöscht!"
+  },
+  "confirm": {
+    "yes": "Ja",
+    "no": "Nein",
+    "delete_title": "{resource} #{id} löschen?",
+    "delete_message": "Sie sind dabei {resource} #{id} zu löschen. Diese Aktion ist nicht umkehrbar!",
+    "delete_many_title": "{count} {resource} löschen?",
+    "delete_many_message": "Sie sind dabei {count} {resource} zu löschen. Diese Aktion ist nicht umkehrbar!",
+    "dissociate_title": "{targetResource} #{targetId} trennen?",
+    "dissociate_message": "Sie sind dabei {targetResource} #{targetId} von {sourceResource} #{sourceId} zu trennen."
+  },
+  "forms": {
+    "none": "Leer",
+    "required_field": "{field} ist ein Pflichtfeld"
+  }
+}
