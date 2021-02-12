@@ -85,6 +85,7 @@ export default {
         dense: this.dense,
         placeholder: this.placeholder,
         clearable: this.clearable,
+        disabled: this.disabled,
       };
     },
   },

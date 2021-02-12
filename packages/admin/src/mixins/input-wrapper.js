@@ -45,6 +45,10 @@ export default {
       },
     },
     /**
+     * Mark this input as disabled.
+     */
+    disabled: Boolean,
+    /**
      * Override default label behavior.
      * Default is to get the localized VueI18n label from both resource and property source.
      */
